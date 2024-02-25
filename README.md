@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmsdev82
-- 👀 I’m interested in DeFi, Rust programming, Full stack development.
-- 🌱 I’m currently learning the Rust programming language.
+- 👀 I’m interested in teaching programming using Python, JavaScript, Rust and more. From CLI apps to Full stack app development.
+- 🌱 I'm writing articles for my blog: https://tms-dev-blog.com/
 - 📫 How to reach me ...
 
 <!---
